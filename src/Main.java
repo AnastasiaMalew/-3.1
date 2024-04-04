@@ -6,7 +6,7 @@ public class Main {
 
         System.out.println("Задание 1");
         byte cats = 15;
-        System.out.println("Значение переменной byte с типом cat равно " + cats);
+        System.out.println("Значение переменной byte с типом cats равно " + cats);
         short citys = 22456;
         System.out.println("Значение переменной short с типом citys равно " + citys);
         int mails = 1678987;
